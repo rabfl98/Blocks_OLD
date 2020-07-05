@@ -1,0 +1,15 @@
+*.sln
+*.userprefs
+*.csproj*
+*.pidb
+*.unityproj
+.DS_Store
+Assets/AssetStore*
+Library
+Obj
+Temp
+.vs
+Logs/
+Build/
+*.gp4
+*~
